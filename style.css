@@ -1,0 +1,27 @@
+body{
+    color: darkred;
+    background-color: darksalmon;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p{
+  color: black;
+}
+
+.center p{ 
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.figure{
+  width: 6.25rem;
+  height: auto;
+}
+.figure img{
+  width: 100%;
+  height: auto;
+}
+.flex{
+  display: flex;
+  justify-content: flex-end;
+}
